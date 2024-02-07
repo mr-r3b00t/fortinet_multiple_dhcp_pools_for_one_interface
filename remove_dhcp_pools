@@ -1,0 +1,62 @@
+config system dhcp server
+edit 1
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 2
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 3
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 4
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 5
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 6
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 7
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 8
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 9
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 10
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 11
+set interface port2
+set forticlient-on-net-status disable
+next
+
+edit 12
+set interface port2
+set forticlient-on-net-status disable
+next
+
+end
